@@ -42,6 +42,6 @@ app.get('/', (req, res)=>{
     res.send('Hello world')
 })
 
-app.listen(3330, ()=>{
-    console.log('listen port on 3330')
+app.listen(3220, ()=>{
+    console.log('listen port on 3220')
 })
